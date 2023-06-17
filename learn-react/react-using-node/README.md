@@ -41,7 +41,7 @@ First we need to install the Yarn using `npm install -g yarn` command. Then we c
 `yarn add @babel/core @babel/preset-env @babel/preset-react babel-core babel-core babel-loader babel-webpack-plugin css-loader html-loader html-webpack-plugin style-loader --dev`
 
 ## Run the application
-If we checkout the project from the respository then, we need install the dependencies and start the application.
+Once we checkout the project from the respository then, we need install the dependencies and start the application.
 
 <strong>Run using NPM.</strong>
 

@@ -1,0 +1,108 @@
+html{
+    margin: 20px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+    align-items: center;
+}
+
+.header > h2 {
+    margin-right: auto;
+    color: orange;
+}
+
+.header--logo {
+    width: 50px;
+    margin: 20px;
+    margin-right: 20px;
+}
+
+.header--menu {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    align-items: center;
+    margin-right: 30px;
+}
+
+.header--menu > li {
+    margin-right: 20px;
+    color: gold;
+}
+
+.content--title {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    text-align: justify;
+    margin-bottom: 13px;
+    color: gray;
+}
+.content--title > span {
+    font-weight: bold;
+    color: blue;
+    font-size: large;
+    text-decoration: underline;
+}
+
+.card--container {
+    width: 100%;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: auto auto auto auto;
+}
+
+.card {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 5px;
+    display: grid;
+    background-color: black;
+    opacity: 0.5; 
+    justify-content: center;
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.8);
+}
+
+.card:hover {
+    opacity: 1; 
+}
+
+.card--img {
+    margin-top: 15px;
+    padding: auto;
+    width: 180px;
+}
+
+.card--details {
+    margin: 0px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 0px;
+}
+.card--name {
+    margin-right: auto;
+    color: orange;
+}
+
+.card--price {
+    margin-right: 0px;
+    color: gold;
+}
+
+.footer {
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 25px;
+    font-size: 12px;
+    background-color: black;
+    color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
