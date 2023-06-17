@@ -1,0 +1,2 @@
+# Learning Html5
+This repo will cover Hypertext Markup Language(HTML) and it's new sematic syntax, tags and elements in HTML5 and also help you to create any web pages using the HTML5 elements. This will help to understand the basic concepts of using the html elements in web pages which helps to use the same in any of the web development.

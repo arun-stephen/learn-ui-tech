@@ -1,0 +1,2 @@
+# Learning Typescript
+This repo will cover Typescript purpose and using the same in web development. This will help to understand the basic concepts of using the Typescript in web pages which helps to use the same in any of the web development.

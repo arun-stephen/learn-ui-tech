@@ -1,0 +1,2 @@
+# Learning NodeJS/Express
+This repo will cover NodeJS framework and it's purpose and using the same in web development. Express will helps to create the Application Program Interface(API) to interact with client application. This will help to understand the basic concepts of using the NodeJS/Express in web pages which helps to use the same in any of the web development.
