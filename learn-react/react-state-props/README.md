@@ -1,4 +1,4 @@
-# React app with conditional rendering
+# Understand the concepts of Props vs State
 This project was created with `create-react-app` which is developed by Facebook. It will provide the boiler-plate code for basic react application with webpack, babel-loader and other required asset loaders. So, the developer can only focus on the development by ignoring the steps of bundling the project.
 
 ### Install the Node in your system
@@ -12,11 +12,12 @@ Once the `Node` was installed then create the react application using `create-re
 The all required assets has to added to the `public` folder of the projec repository then modify the `index.html` to add the required stylesheet configuration in it. The `App.js` in the src folder is the entry file so, you can start modify the code from there.
 
 ## Concept used in this application
-This application has some of the core concepts of using React conditional based rendering based on props and it's best practices. I have describe the concepts used in this project as follows.
-* Loading data from seperate file
+This application has some of the core concepts of using React state vs props and it's best practices. I have describe the concepts used in this project as follows.
 * React Component
 * Props
-* Conditional based Rendering
+* State
+* Event Handling
+* Interact with parent events from child component
 
 ## Run the application
 Once we checkout the project from the respository then, we need install the dependencies and start the application.
