@@ -1,4 +1,4 @@
-# React app with fect API and useEffect
+# React app with fetch API and useEffect
 This project was created with `create-react-app` which is developed by Facebook. It will provide the boiler-plate code for basic react application with webpack, babel-loader and other required asset loaders. So, the developer can only focus on the development by ignoring the steps of bundling the project.
 
 ### Install the Node in your system
@@ -14,7 +14,7 @@ The all required assets has to added to the `public` folder of the projec reposi
 ## Concept used in this application
 This application has some of the core concepts of using React conditional based rendering based on props and it's best practices. I have describe the concepts used in this project as follows.
 * React Component
-* Fecth API
+* Fetch API
 * Handle API response
 * State
 * useEffect
